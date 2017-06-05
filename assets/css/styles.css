@@ -6,9 +6,9 @@
   overflow: hidden;
 }
 body {
-  'background-image: url('../img/wall-mandala.jpg');
+  background-image: url('../img/wall-mandala.jpg');
   background-repeat: no-repeat;
-  'background-size: cover;
+  background-size: cover;
 }
 .container {
     text-align: center;
